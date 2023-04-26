@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactAct", "RefactAct\RefactAct.csproj", "{9521ECF8-68F6-4228-B681-78BCDE69BE70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9521ECF8-68F6-4228-B681-78BCDE69BE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9521ECF8-68F6-4228-B681-78BCDE69BE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9521ECF8-68F6-4228-B681-78BCDE69BE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9521ECF8-68F6-4228-B681-78BCDE69BE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0654E8A-FE19-4F72-80BB-B94E4F6FFCB8}
+	EndGlobalSection
+EndGlobal

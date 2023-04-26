@@ -1,0 +1,8 @@
+C:\Users\Ademar\OneDrive\Desktop\Tecnicas-Refactorizacion\RefactAct\RefactAct\bin\Debug\RefactAct.exe.config
+C:\Users\Ademar\OneDrive\Desktop\Tecnicas-Refactorizacion\RefactAct\RefactAct\bin\Debug\RefactAct.exe
+C:\Users\Ademar\OneDrive\Desktop\Tecnicas-Refactorizacion\RefactAct\RefactAct\bin\Debug\RefactAct.pdb
+C:\Users\Ademar\OneDrive\Desktop\Tecnicas-Refactorizacion\RefactAct\RefactAct\obj\Debug\RefactAct.csproj.AssemblyReference.cache
+C:\Users\Ademar\OneDrive\Desktop\Tecnicas-Refactorizacion\RefactAct\RefactAct\obj\Debug\RefactAct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ademar\OneDrive\Desktop\Tecnicas-Refactorizacion\RefactAct\RefactAct\obj\Debug\RefactAct.csproj.CoreCompileInputs.cache
+C:\Users\Ademar\OneDrive\Desktop\Tecnicas-Refactorizacion\RefactAct\RefactAct\obj\Debug\RefactAct.exe
+C:\Users\Ademar\OneDrive\Desktop\Tecnicas-Refactorizacion\RefactAct\RefactAct\obj\Debug\RefactAct.pdb
