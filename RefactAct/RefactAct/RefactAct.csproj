@@ -43,18 +43,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RefPUA.cs" />
-    <Compile Include="PreRefPUA.cs" />
-    <Compile Include="PreRefPUM.cs" />
-    <Compile Include="RefPUM.cs" />
+    <Compile Include="ComposingMethods\InlineMethod\PreRefIM.cs" />
+    <Compile Include="ComposingMethods\InlineMethod\RefIM.cs" />
+    <Compile Include="ComposingMethods\RemoveAssignamentsToParam\PreRefRATP.cs" />
+    <Compile Include="ComposingMethods\RemoveAssignamentsToParam\RefRATP.cs" />
+    <Compile Include="DealingWithGeneralization\CollapseHierarchy\PreRefCH.cs" />
+    <Compile Include="DealingWithGeneralization\CollapseHierarchy\RefCH.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractInterface\PreRefEI.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractInterface\RefEI.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractSubclass\PreRefES.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractSubclass\RefES.cs" />
+    <Compile Include="DealingWithGeneralization\PullUpFiled\RefPUF.cs" />
+    <Compile Include="DealingWithGeneralization\PullUpFiled\PreRefPUF.cs" />
+    <Compile Include="DealingWithGeneralization\PullUpMethod\PreRefPUM.cs" />
+    <Compile Include="DealingWithGeneralization\PullUpMethod\RefPUM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
-    <None Include="ClassDiagram2.cd" />
-    <None Include="ClassDiagram3.cd" />
-    <None Include="ClassDiagram4.cd" />
+    <None Include="DealingWithGeneralization\CollapseHierarchy\RefCH.cd" />
+    <None Include="DealingWithGeneralization\CollapseHierarchy\PreRefCH.cd" />
+    <None Include="DealingWithGeneralization\ExtractSubclass\PreRefES.cd" />
+    <None Include="DealingWithGeneralization\ExtractInterface\PreRefEI.cd" />
+    <None Include="DealingWithGeneralization\PullUpMethod\PreRefPUM.cd" />
+    <None Include="DealingWithGeneralization\PullUpMethod\RefPUM.cd" />
+    <None Include="DealingWithGeneralization\PullUpFiled\PreRefPUF.cd" />
+    <None Include="DealingWithGeneralization\PullUpFiled\RefPUF.cd" />
+    <None Include="DealingWithGeneralization\ExtractSubclass\RefES.cd" />
+    <None Include="DealingWithGeneralization\ExtractInterface\RefEI.cd" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
