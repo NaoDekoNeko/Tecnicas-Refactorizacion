@@ -38,4 +38,4 @@ namespace RefactAct.ExtractSubclassRef
     {
         public int Rate { get; internal set; }
     }
-}
+}   

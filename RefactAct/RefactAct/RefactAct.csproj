@@ -47,6 +47,8 @@
     <Compile Include="ComposingMethods\InlineMethod\RefIM.cs" />
     <Compile Include="ComposingMethods\RemoveAssignamentsToParam\PreRefRATP.cs" />
     <Compile Include="ComposingMethods\RemoveAssignamentsToParam\RefRATP.cs" />
+    <Compile Include="ComposingMethods\ReplaceTempWQuery\PreRefRTWQ.cs" />
+    <Compile Include="ComposingMethods\ReplaceTempWQuery\RefRTWQ.cs" />
     <Compile Include="DealingWithGeneralization\CollapseHierarchy\PreRefCH.cs" />
     <Compile Include="DealingWithGeneralization\CollapseHierarchy\RefCH.cs" />
     <Compile Include="DealingWithGeneralization\ExtractInterface\PreRefEI.cs" />
@@ -57,6 +59,14 @@
     <Compile Include="DealingWithGeneralization\PullUpFiled\PreRefPUF.cs" />
     <Compile Include="DealingWithGeneralization\PullUpMethod\PreRefPUM.cs" />
     <Compile Include="DealingWithGeneralization\PullUpMethod\RefPUM.cs" />
+    <Compile Include="MovingFeaturesBtnObjects\ExtractClass\PreRefEC.cs" />
+    <Compile Include="MovingFeaturesBtnObjects\ExtractClass\RefEC.cs" />
+    <Compile Include="MovingFeaturesBtnObjects\HideDelegate\PreRefHD.cs" />
+    <Compile Include="MovingFeaturesBtnObjects\HideDelegate\RefHD.cs" />
+    <Compile Include="MovingFeaturesBtnObjects\MoveMethod\PreRefMM.cs" />
+    <Compile Include="MovingFeaturesBtnObjects\MoveMethod\RefMM.cs" />
+    <Compile Include="MovingFeaturesBtnObjects\RemoveMiddleMan\PreRefRMM.cs" />
+    <Compile Include="MovingFeaturesBtnObjects\RemoveMiddleMan\RefRMM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
